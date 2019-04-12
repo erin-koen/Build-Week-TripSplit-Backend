@@ -1,0 +1,13 @@
+{
+  "name": "build-week-III",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "erin-koen <erin.koen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.5",
+    "knex-cleaner": "^1.1.4",
+    "sqlite3": "^4.0.6"
+  }
+}
